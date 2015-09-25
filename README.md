@@ -2,4 +2,10 @@
 
 ![Nearable](http://i.imgur.com/hCCbGfR.png)
 
-> A curated list of awesome Nearables tools, articles and resources.
+> A curated list of awesome nearables tools, articles and resources.
+
+---
+
+### License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
