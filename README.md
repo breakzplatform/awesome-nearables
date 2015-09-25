@@ -4,6 +4,15 @@
 
 > A curated list of awesome nearables tools, articles and resources.
 
+## General resources
+
+## Articles
+
+## Podcasts
+
+##Other awesome resources
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
+
 ---
 
 ### License
