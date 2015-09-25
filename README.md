@@ -15,6 +15,7 @@
 ## Nice Projects
 - [slide-beacon](https://github.com/dermike/slide-beacon)
 - [electron-slide-beacon](https://github.com/dermike/electron-slide-beacon)
+- [eddystone-bookmarklet](https://github.com/dermike/eddystone-bookmarklet)
 
 ## Where to buy (#notasponsor)
 - [Blesh](https://www.blesh.com/physical-web/)
