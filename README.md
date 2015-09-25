@@ -14,9 +14,14 @@
 
 ## Nice Projects
 - [slide-beacon](https://github.com/dermike/slide-beacon)
+- [electron-slide-beacon](https://github.com/dermike/electron-slide-beacon)
 
 ## Where to buy (#notasponsor)
 - [Blesh](https://www.blesh.com/physical-web/)
+
+## Apps
+- [Physical Web](https://play.google.com/store/apps/details?id=physical_web.org.physicalweb&hl=pt_BR)
+- [Chrome for iOS](https://itunes.apple.com/br/app/chrome-o-navegador-da-web/id535886823?mt=8)
 
 ##Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
