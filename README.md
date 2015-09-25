@@ -15,7 +15,7 @@
 ## Nice Projects
 - [slide-beacon](https://github.com/dermike/slide-beacon)
 
-## Where to buy (no sponsor)
+## Where to buy (#notasponsor)
 - [Blesh](https://www.blesh.com/physical-web/)
 
 ##Other awesome resources
