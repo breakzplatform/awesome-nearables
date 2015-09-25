@@ -5,10 +5,18 @@
 > A curated list of awesome nearables tools, articles and resources.
 
 ## General resources
+- [Eddystone - GitHub Repo](https://github.com/google/eddystone)
+- [Physical Web - GitHub Repo](https://github.com/google/physical-web)
+- [Physical Web - Official Website](http://google.github.io/physical-web/)
 
 ## Articles
+- [Exploring the Physical Web with Chrome for iOS](http://blog.chromium.org/2015/07/exploring-physical-web-with-chrome-for.html)
 
-## Podcasts
+## Nice Projects
+- [slide-beacon](https://github.com/dermike/slide-beacon)
+
+## Where to buy (no sponsor)
+- [Blesh](https://www.blesh.com/physical-web/)
 
 ##Other awesome resources
 **If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) list!**
