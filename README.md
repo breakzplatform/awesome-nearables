@@ -12,6 +12,9 @@
 ## Articles
 - [Exploring the Physical Web with Chrome for iOS](http://blog.chromium.org/2015/07/exploring-physical-web-with-chrome-for.html)
 
+## Videos
+- [Introduction to the Physical Web (100 days of Google Dev)](https://www.youtube.com/watch?v=1yaLPRgtlR0)
+
 ## Nice Projects
 - [slide-beacon](https://github.com/dermike/slide-beacon)
 - [electron-slide-beacon](https://github.com/dermike/electron-slide-beacon)
